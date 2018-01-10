@@ -1,8 +1,10 @@
-## scwabble
+# scwabble (built with Vue)
 
-#### A Scrabble score keeper web app
+### A Scrabble score keeper PWA (progressive web app)
 
-#### Built with Vue, Vuex, Vue-Router, Vuetify and Firebase Firestore.
+### Built with Vue, Vuex, Vue-Router, Vuetify and Firebase Firestore.
+
+### This project was scaffolded using the [Vuetify PWA Vue CLI template](https://vuetifyjs.com/vuetify/quick-start).
 
 #### Firebase setup
 
@@ -30,3 +32,5 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+
+No tests, sorry :(
